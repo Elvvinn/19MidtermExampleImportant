@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": 3,
+      "description": "Desserts candies and sweet breads",
+      "name": "Confections"
+    },
+    {
+      "id": 4,
+      "description": "Cheeses",
+      "name": "Dairy Products"
+    },
+    {
+      "id": 5,
+      "description": "Breads crackers pasta and cereal",
+      "name": "Grains/Cereals"
+    },
+    {
+      "id": 6,
+      "description": "Prepared meats",
+      "name": "Meat/Poultry"
+    },
+    {
+      "id": 7,
+      "description": "Dried fruit and bean curd",
+      "name": "Produce"
+    },
+    {
+      "id": 8,
+      "description": "Seaweed and fish",
+      "name": "Seafood"
+    },
+    {
+      "description": "salaaaaam",
+      "name": "auye",
+      "id": 9
+    },
+    {
+      "description": "B3skas",
+      "name": "the best",
+      "id": 10
+    },
+    {
+      "description": "Hopefully",
+      "name": "Again",
+      "id": 11
+    },
+    {
+      "description": "salaaaaam",
+      "name": "auye",
+      "id": 12
+    }
+  ]
+}
